@@ -1,0 +1,3014 @@
+[
+    {
+        "name": "VENUSAUR",
+        "item": "FOCUSSASH",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SLEEPPOWDER",
+            "move_2": "LEAFSTORM",
+            "move_3": "EARTHPOWER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CHARIZARD",
+        "item": "CHOICESCARF",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "AIRSLASH",
+            "move_3": "DRAGONPULSE",
+            "move_4": "OVERHEAT"
+        }
+    },
+    {
+        "name": "BLASTOISE",
+        "item": "LEFTOVERS",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "YAWN",
+            "move_3": "PROTECT",
+            "move_4": "HYDROPUMP"
+        }
+    },
+    {
+        "name": "BUTTERFREE",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SLEEPPOWDER",
+            "move_2": "TAILWIND",
+            "move_3": "PROTECT",
+            "move_4": "BUGBUZZ"
+        }
+    },
+    {
+        "name": "RAICHU",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "HP / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "NUZZLE",
+            "move_3": "ENCORE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "NIDOQUEEN",
+        "item": "LIFEORB",
+        "nature": "TIMID",
+        "evs": "HP / SA / SPD",
+        "moves": {
+            "move_1": "SLUDGEBOMB",
+            "move_2": "ICEBEAM",
+            "move_3": "EARTHPOWER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "NIDOKING",
+        "item": "LIFEORB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SLUDGEBOMB",
+            "move_2": "EARTHPOWER",
+            "move_3": "ICEBEAM",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CLEFAIRY",
+        "item": "EVIOLITE",
+        "nature": "RELAXED",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "HELPINGHAND",
+            "move_2": "PROTECT",
+            "move_3": "FOLLOWME",
+            "move_4": "HEALPULSE"
+        }
+    },
+    {
+        "name": "NINETALES",
+        "item": "SHUCABERRY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "FAKETEARS",
+            "move_3": "PROTECT",
+            "move_4": "NASTYPLOT"
+        }
+    },
+    {
+        "name": "VILEPLUME",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "HP / SA / SPD",
+        "moves": {
+            "move_1": "SLEEPPOWDER",
+            "move_2": "AFTERYOU",
+            "move_3": "GIGADRAIN",
+            "move_4": "SLUDGEBOMB"
+        }
+    },
+    {
+        "name": "GOLDUCK",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "HP / SA / SPD",
+        "moves": {
+            "move_1": "HYDROPUMP",
+            "move_2": "ICEBEAM",
+            "move_3": "SCALD",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "ARCANINE",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FLAREBLITZ",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "SNARL",
+            "move_4": "EXTREMESPEED"
+        }
+    },
+    {
+        "name": "ALAKAZAM",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "NASTYPLOT",
+            "move_2": "EXPANDINGFORCE",
+            "move_3": "FOCUSBLAST",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MACHAMP",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "DYNAMICPUNCH",
+            "move_2": "BULLETPUNCH",
+            "move_3": "HIGHHORSEPOWER",
+            "move_4": "ICEPUNCH"
+        }
+    },
+    {
+        "name": "VICTREEBEL",
+        "item": "WHITEHERB",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "LEAFSTORM",
+            "move_2": "SLUDGEBOMB",
+            "move_3": "SLEEPPOWDER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "SLOWBRO",
+        "item": "LEFTOVERS",
+        "nature": "SASSY",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "SLACKOFF",
+            "move_3": "PSYCHIC",
+            "move_4": "HYDROPUMP"
+        }
+    },
+    {
+        "name": "ALOLAN MUK",
+        "item": "FIGYBERRY",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "KNOCKOFF",
+            "move_2": "POISONJAB",
+            "move_3": "PROTECT",
+            "move_4": "TAUNT"
+        }
+    },
+    {
+        "name": "GENGAR",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SLUDGEBOMB",
+            "move_2": "SHADOWBALL",
+            "move_3": "HAZE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "ALOLAN MAROWAK",
+        "item": "THICKCLUB",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FLAREBLITZ",
+            "move_2": "POLTERGEIST",
+            "move_3": "PROTECT",
+            "move_4": "BONEMERANG"
+        }
+    },
+    {
+        "name": "GALARIAN WEEZING",
+        "item": "CHOICESPECS",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "STRANGESTEAM",
+            "move_2": "SLUDGEBOMB",
+            "move_3": "HEATWAVE",
+            "move_4": "DAZZLINGGLEAM"
+        }
+    },
+    {
+        "name": "CHANSEY",
+        "item": "EVIOLITE",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "SOFTBOILED",
+            "move_2": "HELPINGHAND",
+            "move_3": "PROTECT",
+            "move_4": "SEISMICTOSS"
+        }
+    },
+    {
+        "name": "KANGASKHAN",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "HP / ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "DOUBLEEDGE",
+            "move_3": "SUCKERPUNCH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "STARMIE",
+        "item": "WEAKNESSPOLICY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "ICEBEAM",
+            "move_2": "EXPANDINGFORCE",
+            "move_3": "PROTECT",
+            "move_4": "HYDROPUMP"
+        }
+    },
+    {
+        "name": "TAUROS",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "HP / ATK / SPD",
+        "moves": {
+            "move_1": "DOUBLEEDGE",
+            "move_2": "HIGHHORSEPOWER",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GYARADOS",
+        "item": "LUMBERRY",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "DRAGONDANCE",
+            "move_2": "WATERFALL",
+            "move_3": "PROTECT",
+            "move_4": "EARTHQUAKE"
+        }
+    },
+    {
+        "name": "VAPOREON",
+        "item": "LEFTOVERS",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "HELPINGHAND",
+            "move_2": "HYDROPUMP",
+            "move_3": "ICYWIND",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "KABUTOPS",
+        "item": "FOCUSSASH",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SWORDSDANCE",
+            "move_2": "AQUAJET",
+            "move_3": "LIQUIDATION",
+            "move_4": "ROCKSLIDE"
+        }
+    },
+    {
+        "name": "AERODACTYL",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "WIDEGUARD",
+            "move_3": "ROCKSLIDE",
+            "move_4": "DUALWINGBEAT"
+        }
+    },
+    {
+        "name": "SNORLAX",
+        "item": "FIGYBERRY",
+        "nature": "CAREFUL",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "BELLYDRUM",
+            "move_2": "HIGHHORSEPOWER",
+            "move_3": "FACADE",
+            "move_4": "RECYCLE"
+        }
+    },
+    {
+        "name": "ARTICUNO",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "BLIZZARD",
+            "move_2": "ICEBEAM",
+            "move_3": "FREEZEDRY",
+            "move_4": "SHEERCOLD"
+        }
+    },
+    {
+        "name": "ZAPDOS",
+        "item": "ROCKYHELMET",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HURRICANE",
+            "move_2": "THUNDERBOLT",
+            "move_3": "TAILWIND",
+            "move_4": "DETECT"
+        }
+    },
+    {
+        "name": "GALARIAN MOLTRES",
+        "item": "LEFTOVERS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "FIERYWRATH",
+            "move_2": "TAILWIND",
+            "move_3": "AIRSLASH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "DRAGONITE",
+        "item": "CHOICEBAND",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "EXTREMESPEED",
+            "move_2": "OUTRAGE",
+            "move_3": "IRONHEAD",
+            "move_4": "AERIALACE"
+        }
+    },
+    {
+        "name": "MEGANIUM",
+        "item": "LEFTOVERS",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "LEECHSEED",
+            "move_2": "SYNTHESIS",
+            "move_3": "PROTECT",
+            "move_4": "LEAFSTORM"
+        }
+    },
+    {
+        "name": "TYPHLOSION",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "ERUPTION",
+            "move_2": "SCORCHINGSANDS",
+            "move_3": "FOCUSBLAST",
+            "move_4": "OVERHEAT"
+        }
+    },
+    {
+        "name": "FERALIGATR",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "DRAGONDANCE",
+            "move_2": "LIQUIDATION",
+            "move_3": "ICEPUNCH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CROBAT",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "TAUNT",
+            "move_3": "BRAVEBIRD",
+            "move_4": "HAZE"
+        }
+    },
+    {
+        "name": "AMPHAROS",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "THUNDERWAVE",
+            "move_2": "DISCHARGE",
+            "move_3": "DRAGONPULSE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "AZUMARILL",
+        "item": "CHOICEBAND",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "AQUAJET",
+            "move_2": "LIQUIDATION",
+            "move_3": "PLAYROUGH",
+            "move_4": "ICEPUNCH"
+        }
+    },
+    {
+        "name": "POLITOED",
+        "item": "SITRUSBERRY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "ICYWIND",
+            "move_2": "SCALD",
+            "move_3": "HELPINGHAND",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "QUAGSIRE",
+        "item": "LEFTOVERS",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "AMNESIA",
+            "move_2": "SCALD",
+            "move_3": "ICYWIND",
+            "move_4": "RECOVER"
+        }
+    },
+    {
+        "name": "ESPEON",
+        "item": "SITRUSBERRY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "CALMMIND",
+            "move_2": "EXPANDINGFORCE",
+            "move_3": "DAZZLINGGLEAM",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "UMBREON",
+        "item": "LEFTOVERS",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "YAWN",
+            "move_2": "MOONLIGHT",
+            "move_3": "SNARL",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MURKROW",
+        "item": "EVIOLITE",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "QUASH",
+            "move_3": "HAZE",
+            "move_4": "FOULPLAY"
+        }
+    },
+    {
+        "name": "GALARIAN SLOWKING",
+        "item": "SITRUSBERRY",
+        "nature": "SASSY",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "PROTECT",
+            "move_3": "SLUDGEBOMB",
+            "move_4": "EXPANDINGFORCE"
+        }
+    },
+    {
+        "name": "SCIZOR",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "UTURN",
+            "move_2": "BULLETPUNCH",
+            "move_3": "DUALWINGBEAT",
+            "move_4": "KNOCKOFF"
+        }
+    },
+    {
+        "name": "HERACROSS",
+        "item": "FLAMEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "PROTECT",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "MEGAHORN",
+            "move_4": "ROCKSLIDE"
+        }
+    },
+    {
+        "name": "SKARMORY",
+        "item": "ROCKYHELMET",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "TAUNT",
+            "move_3": "BRAVEBIRD",
+            "move_4": "IRONHEAD"
+        }
+    },
+    {
+        "name": "HOUNDOOM",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "NASTYPLOT",
+            "move_2": "HEATWAVE",
+            "move_3": "DARKPULSE",
+            "move_4": "WILLOWISP"
+        }
+    },
+    {
+        "name": "KINGDRA",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "PROTECT",
+            "move_2": "HYDROPUMP",
+            "move_3": "DRACOMETEOR",
+            "move_4": "HURRICANE"
+        }
+    },
+    {
+        "name": "DONPHAN",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "ICESHARD",
+            "move_2": "HIGHHORSEPOWER",
+            "move_3": "POISONJAB",
+            "move_4": "KNOCKOFF"
+        }
+    },
+    {
+        "name": "PORYGON2",
+        "item": "EVIOLITE",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "RECOVER",
+            "move_3": "ICEBEAM",
+            "move_4": "TRIATTACK"
+        }
+    },
+    {
+        "name": "SMEARGLE",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "HP / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "SPORE",
+            "move_3": "FOLLOWME",
+            "move_4": "WIDEGUARD"
+        }
+    },
+    {
+        "name": "HITMONTOP",
+        "item": "EJECTBUTTON",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "WIDEGUARD",
+            "move_4": "SUCKERPUNCH"
+        }
+    },
+    {
+        "name": "RAIKOU",
+        "item": "ASSAULTVEST",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "VOLTSWITCH",
+            "move_2": "THUNDERBOLT",
+            "move_3": "SNARL",
+            "move_4": "SHADOWBALL"
+        }
+    },
+    {
+        "name": "ENTEI",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "EXTREMESPEED",
+            "move_2": "SACREDFIRE",
+            "move_3": "STOMPINGTANTRUM",
+            "move_4": "SNARL"
+        }
+    },
+    {
+        "name": "SUICUNE",
+        "item": "LEFTOVERS",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "HELPINGHAND",
+            "move_2": "TAILWIND",
+            "move_3": "SNARL",
+            "move_4": "SCALD"
+        }
+    },
+    {
+        "name": "TYRANITAR",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "KNOCKOFF",
+            "move_3": "LOWKICK",
+            "move_4": "EARTHQUAKE"
+        }
+    },
+    {
+        "name": "SCEPTILE",
+        "item": "FOCUSSASH",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SWORDSDANCE",
+            "move_2": "LEAFBLADE",
+            "move_3": "ROCKSLIDE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "BLAZIKEN",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SWORDSDANCE",
+            "move_2": "PROTECT",
+            "move_3": "FLAREBLITZ",
+            "move_4": "CLOSECOMBAT"
+        }
+    },
+    {
+        "name": "SWAMPERT",
+        "item": "SITRUSBERRY",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "YAWN",
+            "move_2": "FLIPTURN",
+            "move_3": "EARTHQUAKE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "LUDICOLO",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HYDROPUMP",
+            "move_2": "ICEBEAM",
+            "move_3": "GIGADRAIN",
+            "move_4": "FAKEOUT"
+        }
+    },
+    {
+        "name": "SWELLOW",
+        "item": "FLAMEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "PROTECT",
+            "move_2": "TAILWIND",
+            "move_3": "FACADE",
+            "move_4": "BRAVEBIRD"
+        }
+    },
+    {
+        "name": "PELIPPER",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "WEATHERBALL",
+            "move_3": "HURRICANE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GARDEVOIR",
+        "item": "CHOICESCARF",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "DAZZLINGGLEAM",
+            "move_2": "THUNDERBOLT",
+            "move_3": "MOONBLAST",
+            "move_4": "PSYCHIC"
+        }
+    },
+    {
+        "name": "MASQUERAIN",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "QUIVERDANCE",
+            "move_2": "BUGBUZZ",
+            "move_3": "TAILWIND",
+            "move_4": "ICEBEAM"
+        }
+    },
+    {
+        "name": "BRELOOM",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "MACHPUNCH",
+            "move_2": "SEEDBOMB",
+            "move_3": "PROTECT",
+            "move_4": "SPORE"
+        }
+    },
+    {
+        "name": "HARIYAMA",
+        "item": "FLAMEORB",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "KNOCKOFF",
+            "move_4": "BULLETPUNCH"
+        }
+    },
+    {
+        "name": "SABLEYE",
+        "item": "LIGHTCLAY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "REFLECT",
+            "move_2": "LIGHTSCREEN",
+            "move_3": "QUASH",
+            "move_4": "WILLOWISP"
+        }
+    },
+    {
+        "name": "MEDICHAM",
+        "item": "SALACBERRY",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "PSYCHOCUT",
+            "move_4": "ENDURE"
+        }
+    },
+    {
+        "name": "MANECTRIC",
+        "item": "AIRBALLOON",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "VOLTSWITCH",
+            "move_2": "PROTECT",
+            "move_3": "SNARL",
+            "move_4": "OVERHEAT"
+        }
+    },
+    {
+        "name": "TORKOAL",
+        "item": "CHARCOAL",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "ERUPTION",
+            "move_2": "HEATWAVE",
+            "move_3": "EARTHPOWER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "FLYGON",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "DRACOMETEOR",
+            "move_2": "EARTHPOWER",
+            "move_3": "HEATWAVE",
+            "move_4": "AIRSLASH"
+        }
+    },
+    {
+        "name": "CRAWDAUNT",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "SWORDSDANCE",
+            "move_2": "AQUAJET",
+            "move_3": "KNOCKOFF",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CLAYDOL",
+        "item": "SITRUSBERRY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "SCORCHINGSANDS",
+            "move_3": "PSYCHIC",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CRADILY",
+        "item": "BIGROOT",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "GIGADRAIN",
+            "move_2": "LEECHSEED",
+            "move_3": "RECOVER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MILOTIC",
+        "item": "LEFTOVERS",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "SCALD",
+            "move_2": "ICYWIND",
+            "move_3": "PROTECT",
+            "move_4": "RECOVER"
+        }
+    },
+    {
+        "name": "DUSCLOPS",
+        "item": "EVIOLITE",
+        "nature": "SASSY",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "WILLOWISP",
+            "move_3": "NIGHTSHADE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "SALAMENCE",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "EARTHQUAKE",
+            "move_3": "DRAGONCLAW",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "METAGROSS",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "BULLETPUNCH",
+            "move_2": "PSYCHOCUT",
+            "move_3": "ICEPUNCH",
+            "move_4": "STOMPINGTANTRUM"
+        }
+    },
+    {
+        "name": "REGIROCK",
+        "item": "ASSAULTVEST",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "BODYPRESS",
+            "move_3": "HEAVYSLAM",
+            "move_4": "EXPLOSION"
+        }
+    },
+    {
+        "name": "REGISTEEL",
+        "item": "LEFTOVERS",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "IRONDEFENSE",
+            "move_2": "HEAVYSLAM",
+            "move_3": "BODYPRESS",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "REGICE",
+        "item": "WEAKNESSPOLICY",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "BLIZZARD",
+            "move_2": "FLASHCANNON",
+            "move_3": "THUNDERBOLT",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "LATIAS",
+        "item": "SITRUSBERRY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "ICYWIND",
+            "move_2": "PSYSHOCK",
+            "move_3": "HELPINGHAND",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "LATIOS",
+        "item": "SOULDEW",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "DRACOMETEOR",
+            "move_2": "PSYCHIC",
+            "move_3": "ICEBEAM",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TORTERRA",
+        "item": "WHITEHERB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SHELLSMASH",
+            "move_2": "WOODHAMMER",
+            "move_3": "EARTHQUAKE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "INFERNAPE",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "UTURN",
+            "move_3": "FLAREBLITZ",
+            "move_4": "CLOSECOMBAT"
+        }
+    },
+    {
+        "name": "EMPOLEON",
+        "item": "ASSAULTVEST",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "HYDROPUMP",
+            "move_2": "FLASHCANNON",
+            "move_3": "VACUUMWAVE",
+            "move_4": "ICEBEAM"
+        }
+    },
+    {
+        "name": "STARAPTOR",
+        "item": "ASSAULTVEST",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "BRAVEBIRD",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "DOUBLEEDGE",
+            "move_4": "UTURN"
+        }
+    },
+    {
+        "name": "LUXRAY",
+        "item": "SITRUSBERRY",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "EERIEIMPULSE",
+            "move_2": "HELPINGHAND",
+            "move_3": "PROTECT",
+            "move_4": "VOLTSWITCH"
+        }
+    },
+    {
+        "name": "ROSERADE",
+        "item": "WHITEHERB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "LEAFSTORM",
+            "move_2": "DAZZLINGGLEAM",
+            "move_3": "SLUDGEBOMB",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "RAMPARDOS",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "HEADSMASH",
+            "move_2": "EARTHQUAKE",
+            "move_3": "ROCKSLIDE",
+            "move_4": "THUNDERPUNCH"
+        }
+    },
+    {
+        "name": "PACHIRISU",
+        "item": "SITRUSBERRY",
+        "nature": "CAREFUL",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "FOLLOWME",
+            "move_2": "NUZZLE",
+            "move_3": "SUPERFANG",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "FLOATZEL",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "AQUAJET",
+            "move_2": "LIQUIDATION",
+            "move_3": "ICEPUNCH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GASTRODON",
+        "item": "LEFTOVERS",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "ICEBEAM",
+            "move_2": "YAWN",
+            "move_3": "EARTHPOWER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "AMBIPOM",
+        "item": "NORMALGEM",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "DOUBLEHIT",
+            "move_3": "KNOCKOFF",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "DRIFBLIM",
+        "item": "GHOSTGEM",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "WILLOWISP",
+            "move_3": "SHADOWBALL",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MISMAGIUS",
+        "item": "SITRUSBERRY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SHADOWBALL",
+            "move_2": "MYSTICALFIRE",
+            "move_3": "TAUNT",
+            "move_4": "WILLOWISP"
+        }
+    },
+    {
+        "name": "BRONZONG",
+        "item": "LEFTOVERS",
+        "nature": "RELAXED",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "BODYPRESS",
+            "move_3": "IRONDEFENSE",
+            "move_4": "GYROBALL"
+        }
+    },
+    {
+        "name": "GARCHOMP",
+        "item": "ASSAULTVEST",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "EARTHQUAKE",
+            "move_3": "DRAGONCLAW",
+            "move_4": "POISONJAB"
+        }
+    },
+    {
+        "name": "LUCARIO",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "CLOSECOMBAT",
+            "move_2": "BULLETPUNCH",
+            "move_3": "EXTREMESPEED",
+            "move_4": "DETECT"
+        }
+    },
+    {
+        "name": "HIPPOWDON",
+        "item": "LEFTOVERS",
+        "nature": "IMPISH",
+        "evs": "ATK / DEF",
+        "moves": {
+            "move_1": "SLACKOFF",
+            "move_2": "CURSE",
+            "move_3": "BODYPRESS",
+            "move_4": "EARTHQUAKE"
+        }
+    },
+    {
+        "name": "DRAPION",
+        "item": "SCOPELENS",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "CROSSPOISON",
+            "move_2": "NIGHTSLASH",
+            "move_3": "PROTECT",
+            "move_4": "ACUPRESSURE"
+        }
+    },
+    {
+        "name": "TOXICROAK",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "SUCKERPUNCH",
+            "move_3": "GUNKSHOT",
+            "move_4": "DRAINPUNCH"
+        }
+    },
+    {
+        "name": "ABOMASNOW",
+        "item": "LIGHTCLAY",
+        "nature": "QUIET",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "AURORAVEIL",
+            "move_2": "BLIZZARD",
+            "move_3": "GRASSKNOT",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "WEAVILE",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "TRIPLEAXEL",
+            "move_2": "LASHOUT",
+            "move_3": "FAKEOUT",
+            "move_4": "ICESHARD"
+        }
+    },
+    {
+        "name": "MAGNEZONE",
+        "item": "AIRBALLOON",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "THUNDERBOLT",
+            "move_2": "VOLTSWITCH",
+            "move_3": "FLASHCANNON",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "RHYPERIOR",
+        "item": "WEAKNESSPOLICY",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "ROCKWRECKER",
+            "move_3": "EARTHQUAKE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "ELECTIVIRE",
+        "item": "ASSAULTVEST",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SUPERCELLSLAM",
+            "move_2": "ICEPUNCH",
+            "move_3": "CROSSCHOP",
+            "move_4": "EARTHQUAKE"
+        }
+    },
+    {
+        "name": "MAGMORTAR",
+        "item": "CHOICESPECS",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "OVERHEAT",
+            "move_3": "THUNDERBOLT",
+            "move_4": "SCORCHINGSANDS"
+        }
+    },
+    {
+        "name": "TOGEKISS",
+        "item": "LEFTOVERS",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "DETECT",
+            "move_3": "AIRSLASH",
+            "move_4": "DAZZLINGGLEAM"
+        }
+    },
+    {
+        "name": "YANMEGA",
+        "item": "FOCUSSASH",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "DETECT",
+            "move_2": "AIRSLASH",
+            "move_3": "BUGBUZZ",
+            "move_4": "SHADOWBALL"
+        }
+    },
+    {
+        "name": "LEAFEON",
+        "item": "LEFTOVERS",
+        "nature": "ADAMANT",
+        "evs": "ATK / DEF",
+        "moves": {
+            "move_1": "LEAFBLADE",
+            "move_2": "SYNTHESIS",
+            "move_3": "YAWN",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GLISCOR",
+        "item": "TOXICORB",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "PROTECT",
+            "move_2": "ROOST",
+            "move_3": "EARTHQUAKE",
+            "move_4": "ROCKSLIDE"
+        }
+    },
+    {
+        "name": "MAMOSWINE",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ICICLECRASH",
+            "move_2": "HIGHHORSEPOWER",
+            "move_3": "ICESHARD",
+            "move_4": "ROCKSLIDE"
+        }
+    },
+    {
+        "name": "PORYGONZ",
+        "item": "CHOICESCARF",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "TRIATTACK",
+            "move_2": "TRICK",
+            "move_3": "ICEBEAM",
+            "move_4": "HYPERBEAM"
+        }
+    },
+    {
+        "name": "GALLADE",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "ATK / DEF",
+        "moves": {
+            "move_1": "PSYCHOCUT",
+            "move_2": "SACREDSWORD",
+            "move_3": "DRAINPUNCH",
+            "move_4": "KNOCKOFF"
+        }
+    },
+    {
+        "name": "FROSLASS",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "WILLOWISP",
+            "move_2": "ICEBEAM",
+            "move_3": "SHADOWBALL",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "ROTOM",
+        "item": "CHOICESCARF",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "VOLTSWITCH",
+            "move_2": "HYDROPUMP",
+            "move_3": "TRICK",
+            "move_4": "WILLOWISP"
+        }
+    },
+    {
+        "name": "HEATRAN",
+        "item": "ASSAULTVEST",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "FLASHCANNON",
+            "move_3": "EARTHPOWER",
+            "move_4": "OVERHEAT"
+        }
+    },
+    {
+        "name": "CRESSELIA",
+        "item": "SITRUSBERRY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "ICYWIND",
+            "move_2": "TRICKROOM",
+            "move_3": "PSYSHOCK",
+            "move_4": "HELPINGHAND"
+        }
+    },
+    {
+        "name": "SERPERIOR",
+        "item": "WIDELENS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "LEAFSTORM",
+            "move_2": "PROTECT",
+            "move_3": "GLARE",
+            "move_4": "TAUNT"
+        }
+    },
+    {
+        "name": "EMBOAR",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FLAREBLITZ",
+            "move_2": "HEADSMASH",
+            "move_3": "HAMMERARM",
+            "move_4": "HEAVYSLAM"
+        }
+    },
+    {
+        "name": "SAMUROTT",
+        "item": "SITRUSBERRY",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "ICYWIND",
+            "move_2": "HYDROPUMP",
+            "move_3": "DETECT",
+            "move_4": "ENCORE"
+        }
+    },
+    {
+        "name": "STOUTLAND",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "DOUBLEEDGE",
+            "move_2": "PLAYROUGH",
+            "move_3": "STOMPINGTANTRUM",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "LIEPARD",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "SNARL",
+            "move_3": "TAUNT",
+            "move_4": "YAWN"
+        }
+    },
+    {
+        "name": "GIGALITH",
+        "item": "SITRUSBERRY",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "EARTHQUAKE",
+            "move_3": "HEAVYSLAM",
+            "move_4": "WIDEGUARD"
+        }
+    },
+    {
+        "name": "EXCADRILL",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "EARTHQUAKE",
+            "move_2": "IRONHEAD",
+            "move_3": "ROCKSLIDE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CONKELDURR",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "DRAINPUNCH",
+            "move_2": "MACHPUNCH",
+            "move_3": "HIGHHORSEPOWER",
+            "move_4": "ICEPUNCH"
+        }
+    },
+    {
+        "name": "WHIMSICOTT",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "MOONBLAST",
+            "move_3": "LIGHTSCREEN",
+            "move_4": "ENCORE"
+        }
+    },
+    {
+        "name": "LILLIGANT",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SLEEPPOWDER",
+            "move_2": "LEAFSTORM",
+            "move_3": "AFTERYOU",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "KROOKODILE",
+        "item": "ASSAULTVEST",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "DARKESTLARIAT",
+            "move_2": "HIGHHORSEPOWER",
+            "move_3": "ROCKSLIDE",
+            "move_4": "SNARL"
+        }
+    },
+    {
+        "name": "DARMANITAN",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FLAREBLITZ",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "ROCKSLIDE",
+            "move_4": "UTURN"
+        }
+    },
+    {
+        "name": "SCRAFTY",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "KNOCKOFF",
+            "move_3": "DRAINPUNCH",
+            "move_4": "ICEPUNCH"
+        }
+    },
+    {
+        "name": "COFAGRIGUS",
+        "item": "SITRUSBERRY",
+        "nature": "SASSY",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "SHADOWBALL",
+            "move_3": "WILLOWISP",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GOTHITELLE",
+        "item": "FOCUSSASH",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "FAKEOUT",
+            "move_3": "PSYSHOCK",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "REUNICLUS",
+        "item": "MENTALHERB",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "PSYCHIC",
+            "move_3": "PROTECT",
+            "move_4": "FOCUSBLAST"
+        }
+    },
+    {
+        "name": "ESCAVALIER",
+        "item": "LIFEORB",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "MEGAHORN",
+            "move_2": "IRONHEAD",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "AMOONGUSS",
+        "item": "ROCKYHELMET",
+        "nature": "RELAXED",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "RAGEPOWDER",
+            "move_2": "PROTECT",
+            "move_3": "SPORE",
+            "move_4": "POLLENPUFF"
+        }
+    },
+    {
+        "name": "EELEKTROSS",
+        "item": "ASSAULTVEST",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "VOLTSWITCH",
+            "move_2": "FLAMETHROWER",
+            "move_3": "GRASSKNOT",
+            "move_4": "THUNDERBOLT"
+        }
+    },
+    {
+        "name": "CHANDELURE",
+        "item": "CHOICESCARF",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "SHADOWBALL",
+            "move_3": "OVERHEAT",
+            "move_4": "ENERGYBALL"
+        }
+    },
+    {
+        "name": "HAXORUS",
+        "item": "CHOICESCARF",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "IRONHEAD",
+            "move_3": "DRAGONCLAW",
+            "move_4": "EARTHQUAKE"
+        }
+    },
+    {
+        "name": "MIENSHAO",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "WIDEGUARD",
+            "move_4": "COACHING"
+        }
+    },
+    {
+        "name": "BISHARP",
+        "item": "EVIOLITE",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "SUCKERPUNCH",
+            "move_2": "IRONHEAD",
+            "move_3": "PROTECT",
+            "move_4": "SWORDSDANCE"
+        }
+    },
+    {
+        "name": "BRAVIARY",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "BRAVEBIRD",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MANDIBUZZ",
+        "item": "SITRUSBERRY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "FOULPLAY",
+            "move_2": "SNARL",
+            "move_3": "ROOST",
+            "move_4": "TAILWIND"
+        }
+    },
+    {
+        "name": "HYDREIGON",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "DRACOMETEOR",
+            "move_2": "DARKPULSE",
+            "move_3": "HEATWAVE",
+            "move_4": "FLASHCANNON"
+        }
+    },
+    {
+        "name": "VOLCARONA",
+        "item": "SITRUSBERRY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "QUIVERDANCE",
+            "move_2": "HEATWAVE",
+            "move_3": "BUGBUZZ",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "COBALION",
+        "item": "LEFTOVERS",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "IRONDEFENSE",
+            "move_2": "BODYPRESS",
+            "move_3": "IRONHEAD",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TERRAKION",
+        "item": "CHOICESCARF",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "CLOSECOMBAT",
+            "move_2": "ROCKSLIDE",
+            "move_3": "IRONHEAD",
+            "move_4": "EARTHQUAKE"
+        }
+    },
+    {
+        "name": "VIRIZION",
+        "item": "LIFEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "CLOSECOMBAT",
+            "move_2": "LEAFBLADE",
+            "move_3": "STONEEDGE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TORNADUS",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "TAILWIND",
+            "move_2": "BLEAKWINDSTORM",
+            "move_3": "ICYWIND",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "THUNDURUS",
+        "item": "SITRUSBERRY",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "THUNDERWAVE",
+            "move_2": "EERIEIMPULSE",
+            "move_3": "WILDBOLTSTORM",
+            "move_4": "THUNDERBOLT"
+        }
+    },
+    {
+        "name": "LANDORUS",
+        "item": "LIFEORB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "EARTHPOWER",
+            "move_2": "SLUDGEBOMB",
+            "move_3": "PROTECT",
+            "move_4": "SANDSEARSTORM"
+        }
+    },
+    {
+        "name": "LANDORUST",
+        "item": "ASSAULTVEST",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "EARTHQUAKE",
+            "move_2": "ROCKSLIDE",
+            "move_3": "SUPERPOWER",
+            "move_4": "UTURN"
+        }
+    },
+    {
+        "name": "CHESNAUGHT",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "DRAINPUNCH",
+            "move_2": "WOODHAMMER",
+            "move_3": "STONEEDGE",
+            "move_4": "FEINT"
+        }
+    },
+    {
+        "name": "DELPHOX",
+        "item": "LIFEORB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "MYSTICALFIRE",
+            "move_3": "PSYSHOCK",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GRENINJA",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HYDROPUMP",
+            "move_2": "ICEBEAM",
+            "move_3": "DARKPULSE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TALONFLAME",
+        "item": "FOCUSSASH",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "BRAVEBIRD",
+            "move_2": "FLAREBLITZ",
+            "move_3": "TAILWIND",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "FLORGES",
+        "item": "SITRUSBERRY",
+        "nature": "CALM",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "MOONBLAST",
+            "move_2": "HELPINGHAND",
+            "move_3": "LIGHTSCREEN",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MEOWSTIC",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "HP / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "HELPINGHAND",
+            "move_3": "REFLECT",
+            "move_4": "LIGHTSCREEN"
+        }
+    },
+    {
+        "name": "AEGISLASH",
+        "item": "WEAKNESSPOLICY",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "FLASHCANNON",
+            "move_2": "SHADOWBALL",
+            "move_3": "WIDEGUARD",
+            "move_4": "KINGSSHIELD"
+        }
+    },
+    {
+        "name": "MALAMAR",
+        "item": "SITRUSBERRY",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "SUPERPOWER",
+            "move_2": "THROATCHOP",
+            "move_3": "TOPSYTURVY",
+            "move_4": "TRICKROOM"
+        }
+    },
+    {
+        "name": "DRAGALGE",
+        "item": "LIFEORB",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "SLUDGEBOMB",
+            "move_2": "DRACOMETEOR",
+            "move_3": "FOCUSBLAST",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "HELIOLISK",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HYPERVOICE",
+            "move_2": "THUNDERBOLT",
+            "move_3": "VOLTSWITCH",
+            "move_4": "WEATHERBALL"
+        }
+    },
+    {
+        "name": "SYLVEON",
+        "item": "THROATSPRAY",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "HYPERVOICE",
+            "move_2": "CALMMIND",
+            "move_3": "PROTECT",
+            "move_4": "MOONBLAST"
+        }
+    },
+    {
+        "name": "HAWLUCHA",
+        "item": "FLYINGGEM",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ACROBATICS",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "SWORDSDANCE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "KLEFKI",
+        "item": "LIGHTCLAY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "LIGHTSCREEN",
+            "move_2": "REFLECT",
+            "move_3": "FOULPLAY",
+            "move_4": "THUNDERWAVE"
+        }
+    },
+    {
+        "name": "DECIDUEYE",
+        "item": "SITRUSBERRY",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "UTURN",
+            "move_2": "LEAFBLADE",
+            "move_3": "PROTECT",
+            "move_4": "SPIRITSHACKLE"
+        }
+    },
+    {
+        "name": "INCINEROAR",
+        "item": "SITRUSBERRY",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "PARTINGSHOT",
+            "move_2": "FAKEOUT",
+            "move_3": "KNOCKOFF",
+            "move_4": "FLAREBLITZ"
+        }
+    },
+    {
+        "name": "PRIMARINA",
+        "item": "THROATSPRAY",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "HYPERVOICE",
+            "move_2": "MOONBLAST",
+            "move_3": "HYDROPUMP",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "VIKAVOLT",
+        "item": "LIFEORB",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "THUNDERBOLT",
+            "move_2": "VOLTSWITCH",
+            "move_3": "BUGBUZZ",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "RIBOMBEE",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "QUIVERDANCE",
+            "move_2": "POLLENPUFF",
+            "move_3": "MOONBLAST",
+            "move_4": "HELPINGHAND"
+        }
+    },
+    {
+        "name": "LYCANROC",
+        "item": "FOCUSSASH",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ROCKSLIDE",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "ENDEAVOR",
+            "move_4": "ENDURE"
+        }
+    },
+    {
+        "name": "MUDSDALE",
+        "item": "CHOICEBAND",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "EARTHQUAKE",
+            "move_2": "ROCKSLIDE",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "HEAVYSLAM"
+        }
+    },
+    {
+        "name": "ARAQUANID",
+        "item": "MYSTICWATER",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "LIQUIDATION",
+            "move_2": "LEECHLIFE",
+            "move_3": "WIDEGUARD",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "LURANTIS",
+        "item": "ASSAULTVEST",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "SUPERPOWER",
+            "move_2": "LEAFBLADE",
+            "move_3": "KNOCKOFF",
+            "move_4": "LEECHLIFE"
+        }
+    },
+    {
+        "name": "TSAREENA",
+        "item": "WIDELENS",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "POWERWHIP",
+            "move_2": "TRIPLEAXEL",
+            "move_3": "TAUNT",
+            "move_4": "HELPINGHAND"
+        }
+    },
+    {
+        "name": "ORANGURU",
+        "item": "MENTALHERB",
+        "nature": "SASSY",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "INSTRUCT",
+            "move_3": "PSYCHIC",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GOLISOPOD",
+        "item": "ASSAULTVEST",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FIRSTIMPRESSION",
+            "move_2": "SUCKERPUNCH",
+            "move_3": "LIQUIDATION",
+            "move_4": "LEECHLIFE"
+        }
+    },
+    {
+        "name": "TOGEDEMARU",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "NUZZLE",
+            "move_3": "ZINGZAP",
+            "move_4": "SPIKYSHIELD"
+        }
+    },
+    {
+        "name": "MIMIKYU",
+        "item": "MENTALHERB",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "PLAYROUGH",
+            "move_3": "SHADOWSNEAK",
+            "move_4": "WILLOWISP"
+        }
+    },
+    {
+        "name": "DRAMPA",
+        "item": "ASSAULTVEST",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "HYPERVOICE",
+            "move_2": "FLAMETHROWER",
+            "move_3": "ICEBEAM",
+            "move_4": "DRACOMETEOR"
+        }
+    },
+    {
+        "name": "DHELMISE",
+        "item": "WEAKNESSPOLICY",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "POWERWHIP",
+            "move_2": "ANCHORSHOT",
+            "move_3": "POLTERGEIST",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "KOMMOO",
+        "item": "THROATSPRAY",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "CLANGOROUSSOUL",
+            "move_2": "CLANGINGSCALES",
+            "move_3": "AURASPHERE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TAPUKOKO",
+        "item": "LIFEORB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "THUNDERBOLT",
+            "move_2": "DAZZLINGGLEAM",
+            "move_3": "VOLTSWITCH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TAPULELE",
+        "item": "CHOICESCARF",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "MOONBLAST",
+            "move_2": "PSYCHIC",
+            "move_3": "DAZZLINGGLEAM",
+            "move_4": "THUNDERBOLT"
+        }
+    },
+    {
+        "name": "TAPUBULU",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "WOODHAMMER",
+            "move_2": "HORNLEECH",
+            "move_3": "SUPERPOWER",
+            "move_4": "ROCKSLIDE"
+        }
+    },
+    {
+        "name": "TAPUFINI",
+        "item": "SITRUSBERRY",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "CALMMIND",
+            "move_2": "MOONBLAST",
+            "move_3": "MUDDYWATER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "NIHILEGO",
+        "item": "POWERHERB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SLUDGEBOMB",
+            "move_2": "METEORBEAM",
+            "move_3": "PROTECT",
+            "move_4": "POWERGEM"
+        }
+    },
+    {
+        "name": "BUZZWOLE",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "ATK / DEF",
+        "moves": {
+            "move_1": "CLOSECOMBAT",
+            "move_2": "LEECHLIFE",
+            "move_3": "ICEPUNCH",
+            "move_4": "POISONJAB"
+        }
+    },
+    {
+        "name": "PHEROMOSA",
+        "item": "FOCUSSASH",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "CLOSECOMBAT",
+            "move_2": "POISONJAB",
+            "move_3": "UTURN",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "XURKITREE",
+        "item": "CHOICESCARF",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "THUNDERBOLT",
+            "move_2": "VOLTSWITCH",
+            "move_3": "DAZZLINGGLEAM",
+            "move_4": "ENERGYBALL"
+        }
+    },
+    {
+        "name": "CELESTEELA",
+        "item": "LEFTOVERS",
+        "nature": "ADAMANT",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "HEAVYSLAM",
+            "move_2": "SUBSTITUTE",
+            "move_3": "LEECHSEED",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "KARTANA",
+        "item": "ASSAULTVEST",
+        "nature": "JOLLY",
+        "evs": "SD / SPD",
+        "moves": {
+            "move_1": "LEAFBLADE",
+            "move_2": "SMARTSTRIKE",
+            "move_3": "SACREDSWORD",
+            "move_4": "NIGHTSLASH"
+        }
+    },
+    {
+        "name": "NAGANADEL",
+        "item": "CHOICESCARF",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "DRACOMETEOR",
+            "move_2": "SLUDGEBOMB",
+            "move_3": "FLAMETHROWER",
+            "move_4": "THUNDERBOLT"
+        }
+    },
+    {
+        "name": "STAKATAKA",
+        "item": "LIFEORB",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "BODYPRESS",
+            "move_2": "ROCKSLIDE",
+            "move_3": "GYROBALL",
+            "move_4": "TRICKROOM"
+        }
+    },
+    {
+        "name": "BLACEPHALON",
+        "item": "CHOICESCARF",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SHADOWBALL",
+            "move_2": "HEATWAVE",
+            "move_3": "MINDBLOWN",
+            "move_4": "TRICK"
+        }
+    },
+    {
+        "name": "RILLABOOM",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "GRASSYGLIDE",
+            "move_2": "FAKEOUT",
+            "move_3": "UTURN",
+            "move_4": "WOODHAMMER"
+        }
+    },
+    {
+        "name": "CINDERACE",
+        "item": "CHOICEBAND",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "PYROBALL",
+            "move_2": "UTURN",
+            "move_3": "HIGHJUMPKICK",
+            "move_4": "SUCKERPUNCH"
+        }
+    },
+    {
+        "name": "INTELEON",
+        "item": "SCOPELENS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SNIPESHOT",
+            "move_2": "ICYWIND",
+            "move_3": "PROTECT",
+            "move_4": "ICEBEAM"
+        }
+    },
+    {
+        "name": "CORVIKNIGHT",
+        "item": "ROCKYHELMET",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "IRONDEFENSE",
+            "move_2": "BODYPRESS",
+            "move_3": "BRAVEBIRD",
+            "move_4": "ROOST"
+        }
+    },
+    {
+        "name": "COALOSSAL",
+        "item": "WEAKNESSPOLICY",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "POWERGEM",
+            "move_2": "EARTHPOWER",
+            "move_3": "HEATWAVE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "BARRASKEWDA",
+        "item": "CHOICEBAND",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FLIPTURN",
+            "move_2": "LIQUIDATION",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "CRUNCH"
+        }
+    },
+    {
+        "name": "HATTERENE",
+        "item": "LIFEORB",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "DAZZLINGGLEAM",
+            "move_2": "EXPANDINGFORCE",
+            "move_3": "TRICKROOM",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GRIMMSNARL",
+        "item": "LIGHTCLAY",
+        "nature": "CAREFUL",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "LIGHTSCREEN",
+            "move_2": "REFLECT",
+            "move_3": "SPIRITBREAK",
+            "move_4": "PARTINGSHOT"
+        }
+    },
+    {
+        "name": "OBSTAGOON",
+        "item": "FLAMEORB",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "OBSTRUCT",
+            "move_2": "KNOCKOFF",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "FACADE"
+        }
+    },
+    {
+        "name": "EISCUE",
+        "item": "SITRUSBERRY",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "BELLYDRUM",
+            "move_2": "ICICLECRASH",
+            "move_3": "LIQUIDATION",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "INDEEDEE",
+        "item": "PSYCHICSEED",
+        "nature": "BOLD",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "FOLLOWME",
+            "move_2": "TRICKROOM",
+            "move_3": "HELPINGHAND",
+            "move_4": "DAZZLINGGLEAM"
+        }
+    },
+    {
+        "name": "DRACOZOLT",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "BOLTBEAK",
+            "move_2": "DRAGONCLAW",
+            "move_3": "AERIALACE",
+            "move_4": "HIGHHORSEPOWER"
+        }
+    },
+    {
+        "name": "DRACOVISH",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FISHIOUSREND",
+            "move_2": "CRUNCH",
+            "move_3": "PSYCHICFANGS",
+            "move_4": "ICEFANG"
+        }
+    },
+    {
+        "name": "DURALUDON",
+        "item": "EVIOLITE",
+        "nature": "MODEST",
+        "evs": "SA / SD",
+        "moves": {
+            "move_1": "SNARL",
+            "move_2": "STEELBEAM",
+            "move_3": "THUNDERBOLT",
+            "move_4": "DRACOMETEOR"
+        }
+    },
+    {
+        "name": "DRAGAPULT",
+        "item": "CHOICEBAND",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "DRAGONDARTS",
+            "move_2": "PHANTOMFORCE",
+            "move_3": "UTURN",
+            "move_4": "SUCKERPUNCH"
+        }
+    },
+    {
+        "name": "URSHIFU",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SURGINGSTRIKES",
+            "move_2": "AQUAJET",
+            "move_3": "CLOSECOMBAT",
+            "move_4": "UTURN"
+        }
+    },
+    {
+        "name": "REGIELEKI",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "THUNDERBOLT",
+            "move_2": "VOLTSWITCH",
+            "move_3": "ELECTROWEB",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "REGIDRAGO",
+        "item": "IRONBALL",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "DRAGONENERGY",
+            "move_2": "DRACOMETEOR",
+            "move_3": "EARTHPOWER",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GLASTRIER",
+        "item": "LIFEORB",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "ICICLECRASH",
+            "move_2": "HIGHHORSEPOWER",
+            "move_3": "HEAVYSLAM",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "SPECTRIER",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "SHADOWBALL",
+            "move_2": "SNARL",
+            "move_3": "WILLOWISP",
+            "move_4": "TAUNT"
+        }
+    },
+    {
+        "name": "ALOLAN NINETALES",
+        "item": "FOCUSSASH",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "PROTECT",
+            "move_2": "AURORAVEIL",
+            "move_3": "BLIZZARD",
+            "move_4": "MOONBLAST"
+        }
+    },
+    {
+        "name": "ALOLAN SANDSLASH",
+        "item": "CHOICEBAND",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ICICLECRASH",
+            "move_2": "IRONHEAD",
+            "move_3": "EARTHQUAKE",
+            "move_4": "XSCISSOR"
+        }
+    },
+    {
+        "name": "ALOLAN RAICHU",
+        "item": "FOCUSSASH",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "RISINGVOLTAGE",
+            "move_2": "FAKEOUT",
+            "move_3": "NUZZLE",
+            "move_4": "PSYSHOCK"
+        }
+    },
+    {
+        "name": "GALARIAN DARMANITAN",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "ICICLECRASH",
+            "move_2": "FLAREBLITZ",
+            "move_3": "EARTHQUAKE",
+            "move_4": "UTURN"
+        }
+    },
+    {
+        "name": "HISUIAN ARCANINE",
+        "item": "CHOICEBAND",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "HEADSMASH",
+            "move_2": "FLAREBLITZ",
+            "move_3": "ROCKSLIDE",
+            "move_4": "EXTREMESPEED"
+        }
+    },
+    {
+        "name": "URSALUNA",
+        "item": "FLAMEORB",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "FACADE",
+            "move_2": "HEADLONGRUSH",
+            "move_3": "SWORDSDANCE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "BASCULEGION",
+        "item": "LIFEORB",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "WAVECRASH",
+            "move_2": "LASTRESPECTS",
+            "move_3": "AQUAJET",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "OVERQWIL",
+        "item": "CHOICEBAND",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "BARBBARRAGE",
+            "move_2": "THROATCHOP",
+            "move_3": "LIQUIDATION",
+            "move_4": "SELFDESTRUCT"
+        }
+    },
+    {
+        "name": "MEOWSCARADA",
+        "item": "CHOICESCARF",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FLOWERTRICK",
+            "move_2": "KNOCKOFF",
+            "move_3": "UTURN",
+            "move_4": "PLAYROUGH"
+        }
+    },
+    {
+        "name": "SKELEDIRGE",
+        "item": "THROATSPRAY",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "TORCHSONG",
+            "move_2": "SHADOWBALL",
+            "move_3": "WILLOWISP",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "QUAQUAVAL",
+        "item": "ASSAULTVEST",
+        "nature": "IMPISH",
+        "evs": "ATK / DEF",
+        "moves": {
+            "move_1": "AQUASTEP",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "ICESPINNER",
+            "move_4": "AQUAJET"
+        }
+    },
+    {
+        "name": "HISUIAN DECIDUEYE",
+        "item": "SCOPELENS",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "TRIPLEARROWS",
+            "move_2": "LEAFBLADE",
+            "move_3": "SHADOWSNEAK",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "HISUIAN TYPHLOSION",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "ERUPTION",
+            "move_2": "HEATWAVE",
+            "move_3": "SHADOWBALL",
+            "move_4": "FOCUSBLAST"
+        }
+    },
+    {
+        "name": "HISUIAN SAMUROTT",
+        "item": "ASSAULTVEST",
+        "nature": "ADAMANT",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "CEASELESSEDGE",
+            "move_2": "AQUACUTTER",
+            "move_3": "SACREDSWORD",
+            "move_4": "AQUAJET"
+        }
+    },
+    {
+        "name": "HISUIAN LILLIGANT",
+        "item": "FOCUSSASH",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "CLOSECOMBAT",
+            "move_2": "SOLARBLADE",
+            "move_3": "AFTERYOU",
+            "move_4": "SLEEPPOWDER"
+        }
+    },
+    {
+        "name": "GARGANACL",
+        "item": "LEFTOVERS",
+        "nature": "CAREFUL",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "SALTCURE",
+            "move_2": "PROTECT",
+            "move_3": "WIDEGUARD",
+            "move_4": "RECOVER"
+        }
+    },
+    {
+        "name": "ARMAROUGE",
+        "item": "LIFEORB",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "ARMORCANNON",
+            "move_2": "TRICKROOM",
+            "move_3": "EXPANDINGFORCE",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "CERULEDGE",
+        "item": "CLEARAMULET",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "BITTERBLADE",
+            "move_2": "SHADOWSNEAK",
+            "move_3": "POLTERGEIST",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TINKATON",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "FAKEOUT",
+            "move_2": "GIGATONHAMMER",
+            "move_3": "PLAYROUGH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "ORTHWORM",
+        "item": "SITRUSBERRY",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "IRONDEFENSE",
+            "move_2": "BODYPRESS",
+            "move_3": "SHEDTAIL",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GLIMMORA",
+        "item": "POWERHERB",
+        "nature": "MODEST",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "MORTALSPIN",
+            "move_2": "SPIKYSHIELD",
+            "move_3": "METEORBEAM",
+            "move_4": "SLUDGEBOMB"
+        }
+    },
+    {
+        "name": "ANNIHILAPE",
+        "item": "CHOICESCARF",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "RAGEFIST",
+            "move_2": "CLOSECOMBAT",
+            "move_3": "DRAINPUNCH",
+            "move_4": "FINALGAMBIT"
+        }
+    },
+    {
+        "name": "FARIGIRAF",
+        "item": "THROATSPRAY",
+        "nature": "QUIET",
+        "evs": "HP / SA",
+        "moves": {
+            "move_1": "TRICKROOM",
+            "move_2": "HYPERVOICE",
+            "move_3": "PSYCHIC",
+            "move_4": "HELPINGHAND"
+        }
+    },
+    {
+        "name": "KINGAMBIT",
+        "item": "BLACKGLASSES",
+        "nature": "BRAVE",
+        "evs": "HP / ATK",
+        "moves": {
+            "move_1": "SUCKERPUNCH",
+            "move_2": "KOWTOWCLEAVE",
+            "move_3": "IRONHEAD",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "MAUSHOLD",
+        "item": "WIDELENS",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "POPULATIONBOMB",
+            "move_2": "PROTECT",
+            "move_3": "FOLLOWME",
+            "move_4": "FEINT"
+        }
+    },
+    {
+        "name": "BAXCALIBUR",
+        "item": "LOADEDDICE",
+        "nature": "ADAMANT",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "GLAIVERUSH",
+            "move_2": "ICESHARD",
+            "move_3": "ICICLESPEAR",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "GHOLDENGO",
+        "item": "LIFEORB",
+        "nature": "MODEST",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "MAKEITRAIN",
+            "move_2": "SHADOWBALL",
+            "move_3": "NASTYPLOT",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "WO-CHIEN",
+        "item": "SITRUSBERRY",
+        "nature": "CALM",
+        "evs": "HP / SD",
+        "moves": {
+            "move_1": "SNARL",
+            "move_2": "FOULPLAY",
+            "move_3": "PROTECT",
+            "move_4": "POLLENPUFF"
+        }
+    },
+    {
+        "name": "CHIEN-PAO",
+        "item": "FOCUSSASH",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "SUCKERPUNCH",
+            "move_2": "SACREDSWORD",
+            "move_3": "ICICLECRASH",
+            "move_4": "PROTECT"
+        }
+    },
+    {
+        "name": "TING-LU",
+        "item": "ROCKYHELMET",
+        "nature": "IMPISH",
+        "evs": "HP / DEF",
+        "moves": {
+            "move_1": "STOMPINGTANTRUM",
+            "move_2": "FISSURE",
+            "move_3": "THROATCHOP",
+            "move_4": "SNARL"
+        }
+    },
+    {
+        "name": "CHI-YU",
+        "item": "CHOICESPECS",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "HEATWAVE",
+            "move_2": "OVERHEAT",
+            "move_3": "DARKPULSE",
+            "move_4": "SNARL"
+        }
+    },
+    {
+        "name": "OGERPON",
+        "item": "COVERTCLOAK",
+        "nature": "JOLLY",
+        "evs": "ATK / SPD",
+        "moves": {
+            "move_1": "HORNLEECH",
+            "move_2": "IVYCUDGEL",
+            "move_3": "SPIKYSHIELD",
+            "move_4": "FOLLOWME"
+        }
+    },
+    {
+        "name": "ARCHALUDON",
+        "item": "POWERHERB",
+        "nature": "TIMID",
+        "evs": "SA / SPD",
+        "moves": {
+            "move_1": "PROTECT",
+            "move_2": "ELECTROSHOT",
+            "move_3": "FLASHCANNON",
+            "move_4": "DRACOMETEOR"
+        }
+    }
+]

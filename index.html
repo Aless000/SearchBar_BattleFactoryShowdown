@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+  <script src="script.js" defer></script>
+  <title>Search Bar | Battle Factory Showdown</title>
+</head>
+<body>
+  <div class="search-wrapper">
+    <label for="search">Search Pokemon</label>
+    <input type="search" id="search" data-search>
+  </div>
+  <div class="pokemon-cards" data-pokemon-cards-container></div>
+  <template data-pokemon-template>
+    <div class="card">
+      <div class="header" data-header></div>
+      <div class="body" data-body_item></div>
+      <div class="body" data-body_nature></div>
+      <div class="body" data-body_evs></div>
+      <div class="body_move" data-body_move1></div>
+      <div class="body_move" data-body_move2></div>
+      <div class="body_move" data-body_move3></div>
+      <div class="body_move" data-body_move4></div>
+    </div>
+  </template>
+  
+  <footer class="footer">
+    by P. Joe, Darek_000
+  </footer>
+</body>
+</html>
